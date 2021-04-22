@@ -1,1 +1,2 @@
-# Multiplar-car
+# synchronousBallMovement
+Ball moving synchronously
